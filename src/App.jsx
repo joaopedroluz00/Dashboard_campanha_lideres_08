@@ -4,7 +4,7 @@ import { Trophy, Target, Users, RefreshCw, Medal, AlertTriangle, Maximize } from
 
 import ProgressBar from "./components/ProgressBar";
 import StatCard from "./components/StatCard";
-import TopCard from "./components/TopCard";
+import TopCard from "./components/TopCard.jsx";
 import RankingTable from "./components/RankingTable";
 
 import {
