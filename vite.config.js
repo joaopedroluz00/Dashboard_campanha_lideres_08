@@ -2,8 +2,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// ATENÇÃO: troque pelo nome exato do SEU repositório do GitHub
 export default defineConfig({
-  base: '/Dashboard_campanha_lideres_08/',
+  base: '/Dashboard_campanha_lideres_08/', // <-- NOME DO REPO
   plugins: [react()],
 })
